@@ -1,4 +1,5 @@
 # Go GC Stress Benchmark
+![Go Gopher](https://blog.golang.org/gopher/gopher.png)
 
 Этот проект сравнивает:
 - стандартный сборщик мусора Go
