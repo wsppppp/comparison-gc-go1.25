@@ -1,0 +1,6 @@
+=== FINAL ===
+Elapsed = 139.05s
+HeapAlloc = 1767.8 MiB
+TotalAlloc = 111736.0 MiB
+NumGC = 623
+GC Pause total = 198.55 ms
